@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--  TODO REMOVE -->
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Main activity -->
+    <string name="app_name">Presidents</string>
+    
+    <string-array name="section_titles">
+        <item>@string/title_section1</item>
+        <item>@string/title_section2</item>
+        <item>@string/title_section3</item>
+        <item>@string/title_section4</item>
+        <item>@string/title_section5</item>
+        <item>@string/title_section6</item>
+    </string-array>
+    
+    <string name="title_section1">Scoreboard</string>
+    <string name="title_section2">Flashcard Mode</string>
+    <string name="title_section3">List of Presidents</string>
+    <string name="title_section4">Quiz Mode</string>
+    <string name="title_section5">Settings</string>
+    <string name="title_section6">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Save</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- About fragment -->
+    <string name="about_title">Presidents App</string>
+    <string name="about_subtitle">Made by Allison</string>
+    <string name="about_img_cont_desc">Image representing application on About page</string>
+    <string name="portait_cont_desc">Portrait for card</string>
+
+    <!-- Flashcard fragment (defaults) -->
+    <string name="cardNameLabel">Name:</string>
+    <string name="cardNameDefault">George Washington</string>
+    <string name="cardDodLabel">Died:</string>
+    <string name="cardDodDefault">09/09/1899</string>
+    <string name="cardDobLabel">Born:</string>
+    <string name="cardDobDefault">08/08/1818</string>
+    <string name="cardTermStartLabel">Term started:</string>
+    <string name="cardTermStartDefault">2000</string>
+    <string name="cardTermEndLabel">Term ended:</string>
+    <string name="cardTermEndDefault">2000</string>
+
+    <!-- Quiz fragment -->
+    <string name="questionNoTemplate">Question #</string>
+
+    <!-- Quiz fragment: ordering -->
+    <string name="ordering_option_1"> Name 1</string>
+    <string name="ordering_option_2"> Name 2</string>
+    <string name="ordering_option_3"> Name 3</string>
+    <string name="ordering_choice_1">First</string>
+    <string name="ordering_choice_2">Second</string>
+    <string name="ordering_choice_3">Third</string>
+    <string name="undo_icon_cont_desc"> Undo the grid.</string>
+    
+    <!-- Settings fragment -->
+    <string name="difficulty_mode_label">Difficulty Mode</string>
+    <string name="dm_1">Easy</string>
+    <string name="dm_2">Medium</string>
+    <string name="dm_3">Hard</string>
+    
+    <!-- Scores fragment -->
+    <string name="scoresTitleTV">Scoreboard</string>
+    <string name="scoresSubtitleTV">Your recent scores on Quiz Mode.</string>
+
+</resources>

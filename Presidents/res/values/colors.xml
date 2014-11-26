@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="submit_button">#8484A6</color>
+    <color name="submit_button_outline">#424253</color>
+    <color name="submit_button_click_end">#8484A6</color>
+    <color name="submit_button_click_start">#CCCCFF</color>
+    
+    <color name="nav_drawer_background">#8484A6</color>
+</resources>
